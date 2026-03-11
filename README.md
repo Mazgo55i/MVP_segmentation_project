@@ -1,4 +1,4 @@
-# MVP-and-pet-projects-MIPT
+# MVP_segmentation_project
 Система автоматической сегментации и профилирования клиентов (MVP)
 
 Бизнес-контекст
